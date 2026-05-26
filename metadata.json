@@ -1,0 +1,6 @@
+{
+  "name": "STRAT9",
+  "description": "Tactical Neural Command. A 9x9 Quoridor-style battlefield strategy game with futuristic cyberpunk visualizer HUD and custom rule engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
